@@ -1,2 +1,2 @@
 # leetcode-go-solutions
-Solutions to leetcode problems in C++
+Solutions to leetcode problems in Go
